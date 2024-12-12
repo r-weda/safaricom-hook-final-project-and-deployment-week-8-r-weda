@@ -1,29 +1,34 @@
-# Web Tech Solutions Website
+# Multipage Website Project
 
-## Project Overview
-A multipage website demonstrating responsive design, semantic HTML5, CSS3 styling, and JavaScript functionality.
+## Project Description
+This is a multipage website created as part of a web development assignment. The website demonstrates proficiency in HTML5, CSS3, and JavaScript, focusing on responsive design and interactive features.
 
 ## Features
 - Responsive design
-- Three-page website (Home, About, Contact)
-- Form validation
-- Modern UI/UX design
 - Semantic HTML5 structure
+- CSS3 styling with transitions
+- JavaScript form validation
+- Multi-page navigation
 
 ## Technologies Used
 - HTML5
 - CSS3
 - Vanilla JavaScript
 
-## Design Principles
-- Mobile-first approach
-- Minimalist design
-- Consistent color scheme
-- Intuitive navigation
-
-## Setup Instructions
-1. Clone the repository
-2. Open `index.html` in a web browser
-3. Ensure all files are in the correct directory structure
+## Design Choices
+- Minimalist design for clean user experience
+- Mobile-first responsive approach
+- Simple color palette for readability
 
 ## Deployment
+Deployed on: [Platform Name - e.g., GitHub Pages]
+Live URL: [Your Live Website URL]
+
+## Local Setup
+1. Clone the repository
+2. Open index.html in a web browser
+
+## Challenges and Solutions
+- Implementing responsive design
+- Cross-browser compatibility
+- Form validation logic
