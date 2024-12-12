@@ -21,8 +21,8 @@ This is a multipage website created as part of a web development assignment. The
 - Simple color palette for readability
 
 ## Deployment
-Deployed on: [Platform Name - e.g., GitHub Pages]
-Live URL: [Your Live Website URL]
+Deployed on:  GitHub Pages
+Live URL: https://r-weda.github.io/safaricom-hook-final-project-and-deployment-week-8-r-weda/
 
 ## Local Setup
 1. Clone the repository
